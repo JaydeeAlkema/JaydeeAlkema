@@ -51,8 +51,8 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JaydeeAlkema&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=JaydeeAlkema&theme=onedark&no-frame=true&row=1" align="center" /></div>
 <br />
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=JaydeeAlkema&theme=onedark&no-frame=true&row=1" align="center" /></div>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=JaydeeAlkema&theme=onedark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ----
