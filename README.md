@@ -44,15 +44,5 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JaydeeAlkema&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br />
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=JaydeeAlkema&theme=onedark&no-frame=true&row=1" align="center" /></div>
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=JaydeeAlkema&theme=onedark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ----
