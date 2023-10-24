@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://static.wixstatic.com/media/ba359b_0940d792dd194a56ad0132a8522d7c5f~mv2.jpg/v1/fill/w_288,h_288,al_c,q_80,enc_auto/ba359b_0940d792dd194a56ad0132a8522d7c5f~mv2.jpg" align="center" style="width: 25%" />
+<img src="https://static.wixstatic.com/media/ba359b_9928ed62caec41b69342187eacce78bc~mv2.png/v1/fill/w_288,h_288,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/41227876458.png" align="center" style="width: 25%" />
 </div>  
   
 
